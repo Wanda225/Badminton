@@ -1,0 +1,6 @@
+
+{
+  "name": "羽球輪替計分助手",
+  "description": "專為羽球團體設計，自動平衡球員上場次數與隊伍實力，提供直覺的計分與分配面板。",
+  "requestFramePermissions": []
+}
